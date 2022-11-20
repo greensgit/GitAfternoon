@@ -2,8 +2,14 @@ package org.cts.test;
 
 public class DataTypes {
 	
+
 	public static void main(String[] args) {
 		//datatype variablename = value;
+		
+		
+		
+		//raj-8124295906
+		
 		
 		byte age = 28;
 		System.out.println("Age value is" +age);
